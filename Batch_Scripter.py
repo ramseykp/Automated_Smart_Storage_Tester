@@ -505,4 +505,4 @@ for Dataset in Test_Dataset:
         shutil.rmtree(data_folder)
         
 
-print('Automated Testing Completed')
+print('All flight folders have been processed. Automated Testing Completed.')
